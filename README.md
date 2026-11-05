@@ -1,5 +1,5 @@
 # 1st-calculator-program-in-c
-this is my first code
+#this is my first code
 a=int(input("enter a number a"))
 b=int(input("enter another number b"))
 add=a+b
